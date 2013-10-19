@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 ## Introduction
 
-CodeIgniter Bootstrap kick starts the development process of the web development process by including Twitter Bootstrap into CodeIgniter. It also includes certain libraries such as AWS and Facebook in-case you are developing applications requiring those SDKs. So stop writing the same code over again and start working on your idea.
-
-CodeIgniter Bootstrap follows the path where it lazy loads libraries. Though the project footprint may be large, the memory footprint will still be extremely light. Try not to autoload libraries as it does not follow the CodeIgniter convention (though some libraries do make sense to autoload).
+CodeIgniter Bootstrap kick starts the development process of the web development process by including Twitter Bootstrap into CodeIgniter. It also includes certain libraries such as AWS and Facebook in-case you are developing applications requiring those SDKs.
+So stop writing the same code over again and start working on your idea.
 
 ## Installation
 
@@ -13,14 +11,8 @@ Derived from CodeIgniter, read [CodeIgniter Installation](http://codeigniter.com
 
 Check out the [Wiki](https://github.com/sjlu/CodeIgniter-Bootstrap/wiki) for more information.
 
-## Releases
-
-This is currently a very active project, there are no projected release locks planned. All changes will be latest in master and may be unstable.
-
 ## License
 
 MIT with [CodeIgniter Amendments](http://codeigniter.com/user_guide/license.html)
-=======
-UnLa_Book_Store
-===============
->>>>>>> 07dd707a1f0d2c17360f2d498be2266114dc5a8e
+
+
